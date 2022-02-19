@@ -5,14 +5,18 @@ analytical method to estimate tasks
 
 ## questions (random)
 
-| area | type | time |
+| area | description | time |
 |-|-|-|
-| `tests` | forml | ~45m |
+| `research` | i don't know some details and need time to research | ~45m |
+|-|-|-|
+| `tests` | time to write tests | ~45m |
 | `tests` | full  | ~2h |
-| | | |
+| - | - | - |
+| `coding` | writing code and checking result | ~2h |
+| - | - | - |
 | `review` | formal | ~30m |
 | `review` | possible fix | ~1.30h |
-| | | |
+| -| - | - |
 | `breaks` |               |       |
 | `psychological` | I usually underestimate | ~1h |
 | `psychological` | I usually very underestimate | ~3h |
