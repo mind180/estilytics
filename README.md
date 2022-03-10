@@ -7,8 +7,6 @@ analytical method to estimate tasks
 
 | area | description | time |
 |-|-|-|
-| `research` | i don't know some details and need time to research | ~45m |
-|-|-|-|
 | `tests` | time to write tests | ~45m |
 | `tests` | full  | ~2h |
 | - | - | - |
