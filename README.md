@@ -16,6 +16,10 @@ analytical method to estimate tasks
 | - | - | - |
 | `review` | formal | ~30m |
 | `review` | possible fix | ~1.30h |
+| - | - | - |
+| `research` | alredy did | ~30m |
+| `research` | need research of code | ~1.30h |
+| `research` | need research of topic | ~3.00h |
 | -| - | - |
 | `breaks` |               |       |
 | `psychological` | I usually underestimate | ~1h |
