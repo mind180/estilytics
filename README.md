@@ -3,6 +3,11 @@ analytical method to estimate tasks
 
 # stage: making structure
 
+# steps
+1. define which parts task include
+2. make approximate intuitive estimate of whole task
+3. make approximate intuitive estimate of each part
+
 ## questions (random)
 
 | area | description | time |
