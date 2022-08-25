@@ -14,6 +14,8 @@ analytical method to estimate tasks
 |-|-|-|
 | `tests` | time to write tests | ~45m |
 | `tests` | full  | ~2h |
+|-|-|-|
+| `integraions` | when your work depend on others and need integrations | ~4h |
 | - | - | - |
 | `coding` | writing code and checking result | ~2h |
 | - | - | - |
